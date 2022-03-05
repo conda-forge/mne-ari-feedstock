@@ -47,5 +47,6 @@ about:
 
 extra:
   recipe-maintainers:
+    - john-veillette
     - hoechenberger
     - larsoner
